@@ -1,5 +1,5 @@
 <h1 align="left">
-    AI2-THOR Rearrangement Challenge
+    AI2-THOR Rearrangement Challenge test
 </h1>
 
 <p align="left">
